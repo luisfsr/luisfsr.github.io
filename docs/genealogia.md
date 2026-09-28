@@ -1,10 +1,10 @@
 # 🌳 Genealogia da família 'da Rosa'.
 
-Este documento foi escrito por Luis Fernnado Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É uma obra que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões científicas e históricas acerca da nossa origem.
+Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É uma obra que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões científicas e históricas acerca da nossa origem.
 
 O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é uma obra acabada.  Deste modo, se você teve acesso à obra com esta introdução, na situação em que ele se encontra, isto indica que você tem uma versão ainda não acabada. Caso tenha interesse em obter a versão acabada entre em contato comigo, adicionando-me no meu Instagram: @luisfernando.sr
 
-Este documento, como está sendo feito por mim, é bastante personalizado para para mim. No entanto, sinta-se a vontade de alterá-lo e personalizá-lo para você e depois compartilhe a sua versão comigo.
+Sinta-se a vontade de alterar e personalizar este documento para você e depois compartilhe a sua versão comigo.
 
 Vamos trocar informações e enriquecer ainda mais a geanalogia da nossa família!
 
@@ -200,11 +200,7 @@ Fim da resposta da IA
 
 A inteligência artificial analisou que, em comparação comigo, a influência indígena no pai é mais visível.
 
-Por fim, forneci essa foto do vô José:
-
-![](https://1drv.ms/i/c/17072c3a9593652e/IQSDGip7_frkRqubwAPeSrz4AdxsdGtlALybGnvRwta1dMA)
-
-Forneci o seguinte prompt "Agora analise esse indivíduo. Retorne os percentis étnicos" e obtive o seguinte quadro:
+Por fim, forneci uma foto do vô José e forneci o seguinte prompt "Agora analise esse indivíduo. Retorne os percentis étnicos" e obtive o seguinte quadro:
 
 ### Estimativa de Composição Fenotípica (Aproximada)
 
@@ -213,6 +209,8 @@ Forneci o seguinte prompt "Agora analise esse indivíduo. Retorne os percentis �
 | **Indígena / Ameríndia (Américas)**                         | **60% – 70%**             | Projeção zigomática acentuada, formato dos olhos, prega epicântica, cabelo lisótrico e padrão de pilosidade. |
 | **Europeia (Ibéria / Sul de Europa)**                       | **25% – 35%**             | Estrutura geral do contorno facial, formato da ponte nasal e fototipo de pele.                               |
 | **Outras Ancestralidades (ex: Subsariana / Médio Oriente)** | **5% – 10%**              | Nuances na largura da base nasal e textura dos lábios.                                                       |
+
+![](https://1drv.ms/i/c/17072c3a9593652e/IQTTPwKGrhv1TKheHX38iGGhARkoPqT7eesmZWsnYM1595Q)
 
 Fim da resposta da IA.
 
