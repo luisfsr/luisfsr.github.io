@@ -1,12 +1,15 @@
-<!-- Importa o script do Mermaid -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-
-<!-- Inicializa o Mermaid -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    mermaid.initialize({
-      startOnLoad: true,
-      theme: "default" // pode ser 'forest', 'dark', 'neutral', etc.
+    mermaid.initialize({ startOnLoad: true });
+    // Converte blocos <code class="language-mermaid"> em <div class="mermaid">
+    document.querySelectorAll("code.language-mermaid").forEach(function(el) {
+      const graphDefinition = el.textContent;
+      const newEl = document.createElement("div");
+      newEl.classList.add("mermaid");
+      newEl.textContent = graphDefinition;
+      el.parentNode.replaceWith(newEl);
     });
+    mermaid.init(undefined, document.querySelectorAll(".mermaid"));
   });
 </script>
