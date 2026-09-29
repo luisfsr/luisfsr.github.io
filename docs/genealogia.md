@@ -66,7 +66,7 @@ graph TD
 
 #### 👤 José da Rosa
 
-<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQQjFvlfjsEGR6tgjTc_7fCPAY5StsqvR9EcpHThXOzAnJI" alt="" width="577">
+<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQRC11TxVepWRY2tHlXWNR0kAc7OjxJ2KYOv0lyNjC3I_ak" alt="" width="577">
 
 ★ Em Uruguaiana/RS, 23/11/1930.
 
@@ -209,7 +209,7 @@ graph TD
 
 O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
-![](https://1drv.ms/i/c/17072c3a9593652e/IQRzihuc3U4iTJCftVC_RzNxAY9gPhTglHroZ3EnzTe2A3o)
+<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQRzihuc3U4iTJCftVC_RzNxAY9gPhTglHroZ3EnzTe2A3o" alt="" width="565">
 
 #### 👤Leonardo Chamorro
 
@@ -257,7 +257,7 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 #### 👤Antônia Chamorra
 
-<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQS3flrJ6PG5S5P1HTDLchfGAbRSifOAQc4E8d2idM27_g8" alt="" width="590">
+<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQQf4DdDlQsFTaRWf5xmRwPkAT83wbafCl2MBXbdJjuJCvM" alt="" width="590">
 
 ★ Uruguaiana, BR
 
