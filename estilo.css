@@ -1,4 +1,4 @@
-.markdown-body {
+body {
   margin: 0;
   font-weight: 400;
   color: #1f2328;
@@ -9,13 +9,13 @@
   word-wrap: break-word;
 }
 
-.markdown-body a {
+a {
   color: #0969da;
   text-decoration: underline;
   text-underline-offset: .2rem;
 }
 
-.markdown-body h1 {
+h1 {
   margin: .67em 0;
   font-weight: 600;
   padding-bottom: .3em;
@@ -23,66 +23,66 @@
   border-bottom: 1px solid #d1d9e0;
 }
 
-.markdown-body h2 {
+h2 {
   font-weight: 600;
   padding-bottom: .3em;
   font-size: 1.5em;
   border-bottom: 1px solid #d1d9e0;
 }
 
-.markdown-body h3 {
+h3 {
   font-weight: 600;
   font-size: 1.25em;
 }
 
-.markdown-body h4 {
+h4 {
   font-weight: 600;
   font-size: 1em;
 }
 
-.markdown-body h5 {
+h5 {
   font-weight: 600;
   font-size: .875em;
 }
 
-.markdown-body h6 {
+h6 {
   font-weight: 600;
   font-size: .85em;
   color: #59636e;
 }
 
-.markdown-body p {
+p {
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-.markdown-body blockquote {
+blockquote {
   margin: 0;
   padding: 0 1em;
   color: #59636e;
   border-left: .25em solid #d1d9e0;
 }
 
-.markdown-body ul,
-.markdown-body ol {
+ul,
+ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 2em;
 }
 
-.markdown-body ol ol,
-.markdown-body ul ol {
+ol ol,
+ul ol {
   list-style-type: lower-roman;
 }
 
-.markdown-body ul ul ol,
-.markdown-body ul ol ol,
-.markdown-body ol ul ol,
-.markdown-body ol ol ol {
+ul ul ol,
+ul ol ol,
+ol ul ol,
+ol ol ol {
   list-style-type: lower-alpha;
 }
 
-.markdown-body table {
+table {
   border-spacing: 0;
   border-collapse: collapse;
   display: block;
@@ -91,27 +91,27 @@
   overflow: auto;
 }
 
-.markdown-body table th {
+table th {
   font-weight: 600;
 }
 
-.markdown-body table th,
-.markdown-body table td {
+table th,
+table td {
   padding: 6px 13px;
   border: 1px solid #d1d9e0;
 }
 
-.markdown-body table tr {
+table tr {
   background-color: #ffffff;
   border-top: 1px solid #d1d9e0;
 }
 
-.markdown-body table tr:nth-child(2n) {
+table tr:nth-child(2n) {
   background-color: #f6f8fa;
 }
 
-.markdown-body code,
-.markdown-body tt {
+code,
+tt {
   padding: .2em .4em;
   margin: 0;
   font-size: 85%;
@@ -120,7 +120,7 @@
   border-radius: 6px;
 }
 
-.markdown-body pre {
+pre {
   padding: 16px;
   overflow: auto;
   font-size: 85%;
