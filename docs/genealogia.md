@@ -2,13 +2,21 @@
 
 Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É uma obra que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões científicas e históricas acerca da nossa origem.
 
-O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é uma obra acabada.  Deste modo, se você teve acesso à obra com esta introdução, na situação em que ele se encontra, isto indica que você tem uma versão ainda não acabada. Caso tenha interesse em obter a versão acabada entre em contato comigo, adicionando-me no meu Instagram: @luisfernando.sr
+O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é uma obra acabada. Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
 
-Sinta-se a vontade de alterar e personalizar este documento para você e depois compartilhe a sua versão comigo.
+Por questão de vida prática e definição de escopo, decidi enfocar mais na linha reta de ancestralidade, porém há informação suficiente aqui para ser de interesse a todos os membros da família.
+
+Sinta-se a vontade de alterar e personalizar este documento para o seu ramo da família e depois compartilhar a sua versão comigo (posso colocar um link aqui se for disponibilizado na internet).
 
 Vamos trocar informações e enriquecer ainda mais a geanalogia da nossa família!
 
-Toda contribuição será reconhecida expressamente, com as contribuições dadas expressamente nominadas.
+Toda contribuição será reconhecida expressamente.
+
+Agradecimentos:
+
+- Tia Anaurelina: por disponibilizar fotos do RG do vô José e do Matrimônio do dos Bisavôs Leonardo e Ynés.
+
+- Pai Fernando: Por contar histórias da família.
 
 ```
 SÍMBOLOS:
