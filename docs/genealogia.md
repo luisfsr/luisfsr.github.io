@@ -46,7 +46,7 @@ graph TD
 
 †
 
-- **Grau de Parentesco:** Bisavó de Luís / Avó de Fernando
+- **Grau de Parentesco:** Bisavó de Luís
 
 - **Linhagem / Ramo / Declaração Cultural:** da Rosa / Origem Charrua
 
@@ -60,11 +60,13 @@ graph TD
 
 > **Tradição Oral:** Segundo relato de Fernando Chamorra da Rosa, Anaurelina contou a seu filho José que era de etnia Charrua. Ela falava fluentemente a língua original nativa, mas optou por não ensinar o idioma a José (padrão histórico de proteção contra a discriminação).
 
-- [ ] Documento de identificação: Pendente
+- [x] Documento de identificação: Menção no RG de José da Rosa.
 
 - [ ] Fotografia: Pendente
 
 #### 👤 José da Rosa
+
+<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQQjFvlfjsEGR6tgjTc_7fCPAY5StsqvR9EcpHThXOzAnJI" alt="" width="577">
 
 ★ Em Uruguaiana/RS, 23/11/1930.
 
@@ -86,7 +88,7 @@ graph TD
 
 - [x] Documento de identificação: Coletado (RG)
 
-- [x] Fotografia: catalogada
+
 
 #### 👤Fernando Chamorra da Rosa
 
@@ -108,7 +110,7 @@ graph TD
 
 - [x] Documento de identificação: Coletado (RG)
 
-- [x] Fotografia: Catalogada
+
 
 ## Origem espanhola e de outra etnia indígena:
 
@@ -257,7 +259,9 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 - [x] Documento de identificação: Certidão de casamento.
 
-#### 👤Antônia: ★†
+#### 👤Antônia Chamorra
+
+![](https://1drv.ms/i/c/17072c3a9593652e/IQS3flrJ6PG5S5P1HTDLchfGAbRSifOAQc4E8d2idM27_g8)
 
 ★ Uruguaiana, BR
 
