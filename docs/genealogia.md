@@ -18,8 +18,6 @@ SÍMBOLOS:
 🪢❓= Vínculo desconhecido
 ```
 
-
-
 ## Origem Charrua:
 
 Árvore genealógica parcial:
@@ -66,8 +64,6 @@ graph TD
 
 - [ ] Fotografia: Pendente
 
-
-
 #### 👤 José da Rosa
 
 ★ Em Uruguaiana/RS, 23/11/1930.
@@ -92,8 +88,6 @@ graph TD
 
 - [x] Fotografia: catalogada
 
-
-
 #### 👤Fernando Chamorra da Rosa
 
  ★ Uruguaiana/RS, em 19/12/1955.
@@ -114,7 +108,7 @@ graph TD
 
 - [x] Documento de identificação: Coletado (RG)
 
-- [x] Fotografia: catalogada
+- [x] Fotografia: Catalogada
 
 ## Origem espanhola e de outra etnia indígena:
 
@@ -125,10 +119,10 @@ graph TD
     Desconhecida]    
     d[Ynés Ferreira]
     a --> d
-    
+
     A[Antônio Chamorro 
     💍 
-    Sonecaria Ferreira] --> B[Leonardo Chamorro]
+    Sonuaria Ferreira] --> B[Leonardo Chamorro]
     B--> e[💍]
     d --> e
     e --> C[Antônia Chamorra 
@@ -162,33 +156,128 @@ graph TD
 
 - **Filhos:** Leonardo Chamorro e talvez outros
 
-> **Tradição Oral:** ...
+> **Tradição Oral:** Conta-se que...
 
-- [ ] Documento de identificação:
+- [x] Documento de identificação: Menção na certidão de casamento de Leonardo e Ynés.
 
-- [ ] Fotografia:
+#### 👤 Sonuaria Ferreira
 
+★ Provavelmente Yacaré, Artigas, UY
 
+† Provavelmente Yacaré, Artigas, UY
 
+- **Grau de Parentesco:** Trisavó de Luís
 
+- **Linhagem / Ramo / Declaração Cultural:** Ibérico
 
+- **Idioma(s) Falado(s):** Idioma Espanhol
 
+- **Pai:** Sem informação
 
-Antônia: ★†
+- **Mãe:** Sem informação
 
-Leonardo: ★ 16/03/1889 em Yacaré, Artigas, 'Jornalero' †
+- **Filhos:** Leonardo Chamorro e talvez outros
 
-**Data da celebração:** 15 de junho de 1918 do casamento de Leonardo e Ynés, no Departamento de Artigas, Seção Yacaré.
+> **Tradição Oral:** Conta-se que...
 
-Ynés: ★ 21/01/1893 em Yacaré, Artigas, afazeres domésticos (*ocupaciones de su sexo*) †
+- [x] Documento de identificação: Menção na certidão de casamento de Leonardo e Ynés.
 
-Antônio: ★† Pai de Leonardo.
+#### 👤Manuel Ferreira
 
-Sonecaria: ★† Mãe de Leonardo.
+★ Provavelmente Yacaré, Artigas, UY
 
-Manuel: ★† Pai de Ynés.
+† Provavelmente Yacaré, Artigas, UY
 
-Indígena desconhecida: ★† mãe de Ynés desconhecida (*desconocida*).
+- **Grau de Parentesco:** Trisavô de Luís
+
+- **Linhagem / Ramo / Declaração Cultural:** Ibérico
+
+- **Idioma(s) Falado(s):** Idioma Espanhol
+
+- **Pai:** Sem informação
+
+- **Mãe:** Sem informação
+
+- **Filhos:** Ynés Ferreira e talvez outros
+
+> **Tradição Oral:** Conta-se que...
+
+- [x] Documento de identificação: Menção na certidão de casamento de Leonardo e Ynés.
+
+#### 👤Desconhecida
+
+* **Filhos:** Ynés Ferreira e talvez outros
+- [x] Documento de identificação: Menção na certidão de casamento de Leonardo e Ynés.
+
+O documento em questão é esse, que segue pubicado, pois já muito antigo:
+
+![](https://1drv.ms/i/c/17072c3a9593652e/IQRzihuc3U4iTJCftVC_RzNxAY9gPhTglHroZ3EnzTe2A3o)
+
+#### 👤Leonardo Chamorro
+
+★ 16/05/1889, Yacaré, Artigas, UY
+
+† Provavelmente Yacaré, Artigas, UY
+
+- **Grau de Parentesco:** Bisavô de Luís
+
+- **Linhagem / Ramo / Declaração Cultural:** Ibérico (espanhol)
+
+- **Idioma(s) Falado(s):** Idioma Espanhol e Português
+
+- **Pai:** Antônio Chamorro
+
+- **Mãe:** Sonuaria Ferreira
+
+- **Filhos:** Antônia Chamorra e talvez outros
+
+> **Tradição Oral:** Conta-se que...
+
+- [x] Documento de identificação: Certidão de casamento.
+
+#### 👤Ynés Ferreira
+
+★ 21/01/1893, Yacaré, Artigas, UY
+
+† Provavelmente Yacaré, Artigas, UY
+
+- **Grau de Parentesco:** Bisavó de Luís
+
+- **Linhagem / Ramo / Declaração Cultural:** Ibérico (espanhol)
+
+- **Idioma(s) Falado(s):** Idioma Espanhol e Português
+
+- **Pai:** Manuel Ferreira
+
+- **Mãe:** Desconhecida
+
+- **Filhos:** Antônia Chamorra e talvez outros
+
+> **Tradição Oral:** Conta-se que...
+
+- [x] Documento de identificação: Certidão de casamento.
+
+#### 👤Antônia: ★†
+
+★ Uruguaiana, BR
+
+† Uruguaiana, BR
+
+- **Grau de Parentesco:** Avó de Luís
+
+- **Linhagem / Ramo / Declaração Cultural:** Ibérico
+
+- **Idioma(s) Falado(s):** Idioma Português
+
+- **Pai:** Leonardo Chamorro
+
+- **Mãe:** Ynés Ferreira
+
+- **Filhos:** Fernando...
+
+> **Tradição Oral:** Conta-se que...
+
+- [ ] Documento de identificação: Pendente.
 
 ## Análise genética:
 
@@ -330,8 +419,6 @@ Até o presente momento não disponho de fotos do restante da família, principa
 
 Aliás, eu percebi que disponho de poucas fotos da família, e se alguém tiver condições de compartilhar mais comigo, por favor, o faça!
 
-
-
 # Quem são os Charruas?
 
 Sim, a pergunta está no tempo verbal correto. Os Charruas não foram extintos como ensinam. Muita da história ameríndia que é ensinada são invenções, mentiras e desculpas para ocultar a história e fazer vistas grossas ao genocídio praticado neste continente.
@@ -340,49 +427,31 @@ Com a etnia da qual proviemos a história conta que seu fim se deu no Massacre d
 
 Mas aquele não foi o fim da história Charrua. Os Charruas vivem! Só que eles não são os mesmos, eles se adaptaram para sobreviver.
 
-
-
 ## Quem foram?
 
 É também verdade que aqueles Charruas de antigamente tinham um modo de vida bem diferente dos de hoje.
-
-
 
 ## Como tentaram acabar com a etnia?
 
 Apunhalados pelas costas por Fructuoso Rivera...
 
-
-
 ## Como sobreviveram?
 
 Nem todos estavam em Salsipuedes...
-
-
 
 ## Quem são?
 
 Aldeia Polidoro, POA/RS...
 
-
-
-
+https://brasil.elpais.com/brasil/2017/10/13/internacional/1507902270_613238.html
 
 https://maps.app.goo.gl/pXyAsNkFReAgjjy38?g_st=ac
 
 https://maps.app.goo.gl/cDBZj1Zjht12i6HV8?g_st=ac
 
-
-
-
-
-
-
 # Status deste trabalho:
 
 Abaixo está o checklist estruturado para a complementação e finalização do documento de genealogia da família da Rosa. Os itens foram divididos por seções temáticas, priorizando pendências de documentação cartorial, coleta de relatos, checagem genético-científica e organização editorial.
-
-
 
 **Seção / Categoria****Tarefas e Informações a Coletar****Prioridade****Status**
 
@@ -391,38 +460,23 @@ Abaixo está o checklist estruturado para a complementação e finalização do 
 - **Registros em Yacaré / Artigas (Uruguai):** Pesquisar registros civis ou paroquiais adicionais de Leonardo Chamorro, Ynés Ferreira, Antônio Chamorro e Sonecaria Ferreira.
 - **Origem de Manuel Ferreira e Indígena Desconhecida:** Investigar arquivos históricos de Artigas/Salto para identificar a filiação ou processo de adoção/criação de Ynés Ferreira.
 - **Ramo Stürmer (Materno):** Incluir a árvore genealógica do ramo Stürmer (Nadir Stürmer e antepassados alemães/europeus) para justificar os 55% de Europa Ocidental do teste de DNA.
-
-
-
 2. Registros Fotográficos & Acervo Visual**Alta**Pendente
 - **Fotos Faltantes (Linha Direta):** Resgatar fotos da Bisavó Anaurelina, Avó Antônia Chamorra e Bisavó Ynés Ferreira com parentes e conhecidos.
 - **Digitalização em Alta Resolução:** Substituir links externos temporários (OneDrive) por imagens salvas diretamente na estrutura final da obra.
 - **Legendas e Cronologia:** Catalogar o ano aproximado e local de cada foto familiar obtida.
-
-
-
 3. Histórias Ancestrais & Tradição Oral**Média**Pendente
 - **História de Anaurelina:** Entrevistar Fernando Chamorra da Rosa para registrar mais detalhes sobre o que Anaurelina contava (palavras no idioma Charrua, costumes, memórias).
 - **História de José e Antônia:** Redigir os verbetes biográficos de José da Rosa e Antônia Chamorra nas seções marcadas com o símbolo (★†).
 - **Entrevistas Sistematizadas:** Gravar áudios ou anotações com parentes mais velhos para preservar causalidades e anedotas da vida em Artigas e no Rio Grande do Sul.
-
-
-
 4. Ajustes Científicos & Genética***Média**Em Andamento
 - **Diferenciação Crítica (DNA x Fenótipo por IA):** Adicionar nota metodológica explicando que a IA analisa apenas traços visuais da foto (sujeita a iluminação e ângulo) e que o teste de DNA de SNP (Genera) é o padrão científico real.
 - **Análise Genética do Pai / Outros Familiares:** Avaliar a realização do teste de DNA autosomal no pai (Fernando) para mapeamento direto do DNA ameríndio sem diluição geracional.
 - **Correlação Haplogrupos (Paterno/Materno):** Verificar no painel da Genera os haplogrupos Y-DNA (linhagem paterna) e mtDNA (linhagem materna) para confirmar as rotas migratórias ancestrais.
-
-
-
 5. Capítulo Histórico: Os Charruas**Média**Pendente
 - **Seção "Quem foram?":** Escrever a introdução sobre o território histórico Charrua (Pampa, Uruguai, Rio Grande do Sul e Entre Ríos).
 - **Seção "Como tentaram acabar com a etnia?":** Contextualizar o Massacre de Salsipuedes (1831) promovido por Fructuoso Rivera.
 - **Seção "Como sobreviveveram? & Quem são?":** Abordar o reagrupamento familiar, a miscigenação forçada/estratégica, a invisibilização estatística e o movimento de reemergência étnica atual (ex: CODECHA no Uruguai).
 - **Mapeamento Geográfico:** Substituir ou identificar explicitamente o destino dos dois links do Google Maps inseridos no final do texto.
-
-
-
 6. Diagramação & Edição Geral**Baixa**Pendente
 - **Padronização de Símbolos:** Definir uma legenda clara no início da obra para a notação utilizada (ex: ★ = Nascimento, † = Falecimento, 💍 = Casamento).
 - **Correção Gramatical e Ortográfica:** Revisar digitações do rascunho (ex: "geanalogia", "articial", "canco medial").
