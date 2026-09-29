@@ -88,8 +88,6 @@ graph TD
 
 - [x] Documento de identificação: Coletado (RG)
 
-
-
 #### 👤Fernando Chamorra da Rosa
 
  ★ Uruguaiana/RS, em 19/12/1955.
@@ -109,8 +107,6 @@ graph TD
 > **Tradição Oral:** ...
 
 - [x] Documento de identificação: Coletado (RG)
-
-
 
 ## Origem espanhola e de outra etnia indígena:
 
@@ -261,7 +257,7 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 #### 👤Antônia Chamorra
 
-![](https://1drv.ms/i/c/17072c3a9593652e/IQS3flrJ6PG5S5P1HTDLchfGAbRSifOAQc4E8d2idM27_g8)
+<img title="" src="https://1drv.ms/i/c/17072c3a9593652e/IQS3flrJ6PG5S5P1HTDLchfGAbRSifOAQc4E8d2idM27_g8" alt="" width="590">
 
 ★ Uruguaiana, BR
 
