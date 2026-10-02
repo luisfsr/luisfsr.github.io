@@ -1,10 +1,10 @@
-# 🌳 Genealogia da família 'da Rosa'.
+# 🌳 Ancestralidade da família 'da Rosa'.
 
-Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É uma obra que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões científicas e históricas acerca da nossa origem.
+Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É uma trabalho singelo que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões quase científicas e históricas acerca da nossa origem.
 
-O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é uma obra acabada. Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
+O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é acabado. Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
 
-Por questão de vida prática e definição de escopo, decidi enfocar mais na linha reta de ancestralidade, porém há informação suficiente aqui para ser de interesse a todos os membros da família.
+Por questão de vida prática e definição de escopo, decidi enfocar mais na linha reta de ancestralidade até a geração dos meus avós, porém há informação suficiente aqui para ser de interesse a todos os membros da família.
 
 Sinta-se a vontade de alterar e personalizar este documento para o seu ramo da família e depois compartilhar a sua versão comigo (posso colocar um link aqui se for disponibilizado na internet).
 
@@ -14,9 +14,9 @@ Toda contribuição será reconhecida expressamente.
 
 Agradecimentos:
 
-- Tia Anaurelina: por disponibilizar fotos do RG do vô José e do Matrimônio do dos Bisavôs Leonardo e Ynés.
-
 - Pai Fernando: Por contar histórias da família.
+
+- Tia Anaurelina: por disponibilizar fotos do RG do vô José e do Matrimônio do dos Bisavôs Leonardo e Ynés.
 
 ```
 SÍMBOLOS:
@@ -26,7 +26,7 @@ SÍMBOLOS:
 🪢❓= Vínculo desconhecido
 ```
 
-## Origem Charrua:
+## Origem Charrua
 
 Árvore genealógica parcial:
 
@@ -38,12 +38,6 @@ graph TD
     Desconhecido] --> B[José da Rosa 
     💍 
     Antônia Chamorra]
-    B --> D[Fernando Chamorra da Rosa 
-    💍 
-    Nadir Stürmer]
-    D --> E[Tatiana Fátima S. R.]
-    D --> F[Luís Fernando S. R.]
-    D --> G[Mateus Vinícius S. R.]
 ```
 
 ### Ancestrais identificados:
@@ -66,7 +60,7 @@ graph TD
 
 - **Filhos:** José da Rosa e outros ainda não identificados
 
-> **Tradição Oral:** Segundo relato de Fernando Chamorra da Rosa, Anaurelina contou a seu filho José que era de etnia Charrua. Ela falava fluentemente a língua original nativa, mas optou por não ensinar o idioma a José (padrão histórico de proteção contra a discriminação).
+> **Tradição Oral:** Segundo relato de Fernando Chamorra da Rosa, Anaurelina contou a seu filho José que era de etnia Charrua. Ela falava fluentemente a língua original nativa, mas optou por não ensinar o idioma a José (padrão histórico de proteção da prole).
 
 - [x] Documento de identificação: Menção no RG de José da Rosa.
 
@@ -96,27 +90,9 @@ graph TD
 
 - [x] Documento de identificação: Coletado (RG)
 
-#### 👤Fernando Chamorra da Rosa
+ 
 
- ★ Uruguaiana/RS, em 19/12/1955.
-
-- **Grau de Parentesco:** Pai de Luís
-
-- **Linhagem / Ramo / Declaração Cultural:** da Rosa / Origem Charrua
-
-- **Idioma(s) Falado(s):** Português
-
-- **Pai:** José da Rosa
-
-- **Mãe:** Antônia Chamorra da Rosa
-
-- **Filhos:** Tatiana Fátima Stürmer da Rosa, Luís Fernando Stürmer da Rosa e Mateus Vinícius Stürmer da Rosa.
-
-> **Tradição Oral:** ...
-
-- [x] Documento de identificação: Coletado (RG)
-
-## Origem espanhola e de outra etnia indígena:
+## Origem Ibérica
 
 ```mermaid
 graph TD
@@ -134,12 +110,6 @@ graph TD
     e --> C[Antônia Chamorra 
     💍
     José da Rosa]
-    C --> D[Fernando Chamorra da Rosa 
-    💍 
-    Nadir Stürmer]
-    D --> E[Tatiana Fátima S. R.]
-    D --> F[Luís Fernando S. R.]
-    D --> G[Mateus Vinícius S. R.] 
 ```
 
 ### Ancestrais identificados:
@@ -287,15 +257,43 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 - [ ] Documento de identificação: Pendente.
 
-## Análise genética:
+## Ancestralidade:
 
-O uso de ferramentas de inteligência artificial hoje está bastante disseminada e não poderia ser diferente comigo. Resolvi utilizar esta ferramenta principalmente para suprir alguma falta de informação genética acerca da nossa família.
+A ancestralidade Ibérica não necessita de muita pesquisa, visto que facilmente demonstrável pelo documento acima. Verifica-se peloa origem dos sobrenomes.
 
-Felizmente, há alguns anos, fiz um exame de DNA que demonstrou com precisão a minha constituição genética. De posse disso, solicitei que a IA fizesse uma análise fenotípica da minha foto e me surpreendi com a precisão da análise da IA. Assim, resolvi usá-la para enriquecer este trabalho.
+### Ferreira
 
-Clique nesse link para ver com detalhe como usei a IA [clique aqui](https://share.gemini.google/sJEDV5KtysCf).
+Conforme a [wikipedia](https://pt.wikipedia.org/wiki/Ferreira_(nome_de_fam%C3%ADlia)), "Ferreira é um sobrenome de origem espanhola, que pode ser classificado tanto como toponímico, ou seja a origem indica um lugar onde há ferro, mina ou jazida de ferro, quanto relativo a profissão de ferreiro que poderia dar origem a uma alcunha, passando depois ao nome familiar Ferreira, não conta seguramente com uma única origem comum. O nome remonta ao século XI em Ferreira na Espanha".
 
-De modo resumido, forneci algumas fotos minhas e usei o seguinte prompt: "Pelas características fenotípicas, monte um percentil étnico do indivíduo nas fotos", obtendo a seguinte resposta:
+### Chamorro
+
+Conforme o site [Geneanet](https://pt.geneanet.org/nomes-de-familia/CHAMORRO), "Chamorro tem origens que remontam à Península Ibérica, com forte presença em países de língua espanhola e, mais recentemente, no Brasil. O nome é associado a comunidades de origem espanhola e, curiosamente, também a indivíduos provenientes das Ilhas Marianas, onde 'Chamorro' designa os povos nativos da região".
+
+Evidentemente nossa família não tem ligação com povos nativos das Ilhas Marianas, sendo a origem, portanto, espanhola.
+
+### Da Rosa
+
+Este sobrenome parece simples, mas é mais complicado para fins de revelar qual é sua origem étnica.
+
+Conforme o site [genera](https://sobrenomes.genera.com.br/sobrenomes/rosa/), no "Brasil, [d]a Europa o sobrenome passou aos Açores e à América, de vários modos e períodos, primeiro com os povoadores e conquistadores (desde o século 16), mais tarde com imigrantes (a partir do século 18). No Brasil, entre outras formas, sobrenome chegou com os açorianos descendentes do flamengo **Pieter van der Roos** (Pieter de Roose), um dos povoadores do arquipélago no século 15, que teve o nome aportuguesado para '**Pedro da Rosa**'. O sobrenome aparece também entre famílias de cristãos-novos (judeus) e descendentes de africanos escravizados, que adotaram a identificação familiar de seus senhores."
+
+Como dito acima, a bisavó Anaurelina teria dito que somos de origem Charrua ao nosso ao Avô José.
+
+Muito provavelmente a bisavó adotou o sobrenome de alguma família açoriana da região do Uruguai ou do Brasil, mas as circunstâncias dessa adoção ainda são desconhecidas para mim.
+
+## Análise fenotípica e genética
+
+Os traços no rosto, como o olho puxado e os ossos faciais grandes são testemunhos de uma ancestralidade ameríndia em nossa famíia. Caso a bisavó não tivesse contato ao avô que proviemos dos Charruas, saberiamos ao menos que somos originários desta América só pelos nossos traços.
+
+Quando eu era criança, como cresci em uma região em que os indígenas foram expulsos e a população quase na sua totalidade era de origem caucasiana (massivamente alemães e italianos), sempre fui visto como diferente. Não raras vezes me chamavam de "japonês", por causa de meus olhos puxados e eu sempre retrucava "não, sou índio, meu pai me contou".
+
+Por vezes os de origem alemã me perguntavam: "De qual família você é?" e eu, novinho, querendo me integrar dizia "minha mãe é Stürmer" e me respondiam "mas tu não é alemão, tem uma mistura aí!" e eu retrucava, "sim, sou indígena, também". Depois de um tempo, acostumado com o estranhamento dos teutonicos, já adiantava, sou da Rosa, de origem indígena. Então diziam, "mas tu é muito claro" e eu falava, "sim, minha mãe é de origem alemã". No fim, mais velho já largava ainda  mais na frente: "sou da Rosa, de origem indígena, e Stürmer, de origem alemã, sou mestiço". Depois que me mudei daquela região e vim para Porto Alegre essas perguntas deixaram de fazer parte do meu cotidiano, mas deixaram suas marcas em mim.
+
+Desta forma, é mais do que evidente que traços fenotípicos ameríndios estão bem presentes em praticamente todos nós.
+
+Para fazer a análise fenotípica resolvi utilizar a IA, principalmente para suprir a falta de informação genética acerca da nossa família.
+
+Clique [aqui](https://share.gemini.google/sJEDV5KtysCf) para ver com detalhe como usei a IA, mas, de modo resumido, forneci algumas fotos minhas e usei o seguinte prompt: "Pelas características fenotípicas, monte um percentil étnico do indivíduo nas fotos", obtendo a seguinte resposta:
 
 ---
 
@@ -313,39 +311,13 @@ Fim da resposta da IA.
 
 ---
 
-Os percentuais apresentados pela inteligência articial se aproximaram bastante com meu perfil genético, que foi feito a partir de meu material genético. Eu o forneci para a empresa genera, que me retornou a seguinte composição genética:
+Observe que a inteligência articial, ao retornar o quadro fenotípico, ficou na dúvida com a minha ancestralidade entre a ameríndia e a asiática. E isso coincide com o que se teoriza sobre imigrações populacionais e a origem dos primeiros influxos humanos na América. Entende-se que a maioria dos indígenas teriam atravessado o estreito de Bering (entre a Rússia e o Alasca) e populado a América. Há também vestígios genéticos, de herança genética, da Oceania, indicando possível imigração da Oceania e Polinésia ao continente Sul Americano:
 
-### Perfil Genético do Indivíduo
-
-| Região Continental          | Região / Etnia                                                         | Porcentagem |
-|:--------------------------- |:---------------------------------------------------------------------- |:----------- |
-| **Europa**                  | **Total da Europa**                                                    | **81%**     |
-|                             | Europa Ocidental (Alemanha, França e Países Baixos) e Ilhas Britânicas | 55%         |
-|                             | Ibéria                                                                 | 9%          |
-|                             | Cáucaso                                                                | 4%          |
-|                             | Sardenha                                                               | 4%          |
-|                             | Judeus Ashkenazim                                                      | 3%          |
-|                             | Leste Europeu                                                          | < 3%        |
-|                             | Fenoscândia                                                            | < 3%        |
-|                             | Itália                                                                 | < 2%        |
-|                             | Lapônia e Volga-Ural                                                   | < 2%        |
-| **Américas**                | **Total das Américas**                                                 | **17%**     |
-|                             | Amazônia                                                               | 11%         |
-|                             | América Andina                                                         | 4%          |
-|                             | América Central                                                        | < 2%        |
-|                             | Tupi                                                                   | < 2%        |
-| **Oriente Médio e Magrebe** | **Total da Região**                                                    | **< 2%**    |
-|                             | Levante                                                                | < 2%        |
-| **Ásia**                    | **Total da Ásia**                                                      | **< 2%**    |
-|                             | Sul da Ásia                                                            | < 2%        |
-
-Observe que a inteligência articial, o retornar aquele primeiro quadro fenotípico, ficou na dúvida com a minha ancestralidade entre a ameríndia e a asiática. E isso coincide com o que se teoriza sobre imigrações populacionais e a origem dos primeiros influxos humanos na América. Entende-se que a maioria dos indígenas teriam atravessado o estreito de Bering (entre a Rússia e o Alasca) e populado a América. Há também vestígios genéticos, de herança genética, da Oceania, indicando possível imigração da Oceania e Polinésia ao continente Sul Americano:
-
-![](https://ecommerce.cdn.genera.com.br/uploads/2022/11/ocupacao-americas-300x186.jpg)
+<img title="" src="https://ecommerce.cdn.genera.com.br/uploads/2022/11/ocupacao-americas-300x186.jpg" alt="" width="535">
 
 A semelhança entre ameríndios e asiáticos é notável:
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mFM-N9RdjjAa3Ad_rtSY3iO0m8YEkK3F5zM2lrcByA&s=10)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mFM-N9RdjjAa3Ad_rtSY3iO0m8YEkK3F5zM2lrcByA&s=10" title="" alt="" width="549">
 
 Veja a explicação da IA:
 
@@ -387,7 +359,7 @@ Prosseguindo na minha pesquisa, dei o seguinte prompt à IA: "Faça uma imagem e
 
 ![](https://1drv.ms/i/c/17072c3a9593652e/IQSJJ0yxI8ubTLNIgh-Vw9wfAW2ltaV6k-SbV1Je2_mxOlI)
 
-Seguindo na brincadeira, resolvi fornecer uma foto do meu pai e solicitei que a inteligência artificial fizesse comparações semelhantes com o que fizera em relação ao meu fenotipo.
+Seguindo, resolvi fornecer uma foto do meu pai e solicitei que a inteligência artificial fizesse comparações semelhantes com o que fizera em relação ao meu fenotipo.
 
 Eis sua resposta:
 
@@ -426,6 +398,38 @@ Fim da resposta da IA.
 Até o presente momento não disponho de fotos do restante da família, principalmente da minha bisavó Anaurelina. E ainda falta fazer uma análise sobre a parte da avó Antônia e bisavó Ynés.
 
 Aliás, eu percebi que disponho de poucas fotos da família, e se alguém tiver condições de compartilhar mais comigo, por favor, o faça!
+
+## Análise genética
+
+Felizmente, há alguns anos, fiz um exame de DNA que demonstrou com precisão a minha constituição genética. De posse disso, solicitei que a IA fizesse uma análise fenotípica da minha foto e me surpreendi com a precisão da análise da IA. Assim, resolvi usá-la para enriquecer este trabalho.
+
+Os percentuais apresentados pela inteligência articial se aproximaram bastante com meu perfil genético, que foi feito a partir de meu material genético. Eu o forneci para a empresa genera, que me retornou a seguinte composição genética:
+
+### Perfil Genético do Indivíduo
+
+| Região Continental          | Região / Etnia                                                         | Porcentagem |
+| --------------------------- | ---------------------------------------------------------------------- | ----------- |
+| **Europa**                  | **Total da Europa**                                                    | **81%**     |
+|                             | Europa Ocidental (Alemanha, França e Países Baixos) e Ilhas Britânicas | 55%         |
+|                             | Ibéria                                                                 | 9%          |
+|                             | Cáucaso                                                                | 4%          |
+|                             | Sardenha                                                               | 4%          |
+|                             | Judeus Ashkenazim                                                      | 3%          |
+|                             | Leste Europeu                                                          | < 3%        |
+|                             | Fenoscândia                                                            | < 3%        |
+|                             | Itália                                                                 | < 2%        |
+|                             | Lapônia e Volga-Ural                                                   | < 2%        |
+| **Américas**                | **Total das Américas**                                                 | **17%**     |
+|                             | Amazônia                                                               | 11%         |
+|                             | América Andina                                                         | 4%          |
+|                             | América Central                                                        | < 2%        |
+|                             | Tupi                                                                   | < 2%        |
+| **Oriente Médio e Magrebe** | **Total da Região**                                                    | **< 2%**    |
+|                             | Levante                                                                | < 2%        |
+| **Ásia**                    | **Total da Ásia**                                                      | **< 2%**    |
+|                             | Sul da Ásia                                                            | < 2%        |
+
+Assim sendo, estou satisfeito com a correspondência fenotípica à genética, revelando um bom percentual de acerto.
 
 # Quem são os Charruas?
 
