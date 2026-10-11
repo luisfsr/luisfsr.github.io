@@ -58,9 +58,15 @@ graph TD
 
 - **Mãe:** Ainda não identificada
 
-- **Filhos:** José da Rosa e outros ainda não identificados
+- **Filhos:** José da Rosa, Leopoldo, etc.
 
-> **Tradição Oral:** Segundo relato de Fernando Chamorra da Rosa, Anaurelina contou a seu filho José que era de etnia Charrua. Ela falava fluentemente a língua original nativa, mas optou por não ensinar o idioma a José (padrão histórico de proteção da prole).
+> **Tradição Oral:** 
+> 
+> Segundo relato de Fernando Chamorra da Rosa, Anaurelina contou a seu filho José que era de etnia Charrua. Ela falava fluentemente a língua original nativa, mas optou por não ensinar o idioma a José (padrão histórico de proteção da prole).
+> 
+> ---
+> 
+> Hoje almocei com meu pai no Centro Histórico. Enquanto caminhávamos até o meu carro — ele empurrando a bicicleta antes de pedalar de volta para casa —, ele me contou algumas histórias da família. Perguntei a ele sobre a minha bisavó Anaurelina: se ela havia nascido no Brasil ou no Uruguai. Ele respondeu que foi no Uruguai. Perguntei se ela tinha ensinado algo do idioma nativo aos filhos, e ele disse que não; ela falava português e espanhol, mas não ensinou a língua indígena para a família, embora a falasse como primeira língua. Curioso, perguntei quando e por que ela veio para o Brasil, e qual idade ela tinha. Meu pai supõe que ela devia ter cerca de 18 anos ao chegar, pois a bisavó lhe contou que já tinha três filhos na época. No contexto das comunidades indígenas da época, as mulheres começavam a ter filhos por volta dos 14 ou 15 anos. Ele lembrou carinhosamente que a “vó China”, como a chamava, gostava muito de convidá-lo para ir à casa dela comer pastel, tomar vinho e contar suas memórias. Sobre o motivo de sua vinda, ela relatava que a vida no Uruguai era muito difícil. Por serem indígenas, ela e sua família eram marginalizados e “muito mal vistos” pela população em geral, vivendo em extrema necessidade e sem qualquer tipo de consideração. Também perguntei sobre o pai do vô José. Ele disse que a bisavó nunca revelou quem ele era, e supõe que já tivesse falecido na época. A mudança para o Brasil aconteceu quando ela conheceu o “vô Manuel” (meu bisavô emprestado), um homem negro que trabalhava em uma estância em Uruguaiana. Ele era posteiro — responsável por cuidar de uma fração de terra mais afastada da propriedade. Em suas andanças pelo Uruguai, Manuel conheceu Anaurelina, eles se afeiçoaram, e ele a trouxe para o Brasil junto com os três filhos que ela já tinha, incluindo o vô José. Eles foram morar no posto de terra que Manuel cuidava. Lá, ele zelava pela propriedade enquanto Anaurelina cozinhava para os peões da estância. Juntos, Manuel e Anaurelina tiveram um filho chamado Leopoldo. Passados alguns anos, o dono da estância chamou o casal para morar na sede: o bisavô Manuel passou a ser o jardineiro da propriedade e a bisavó Anaurelina virou a cozinheira da casa principal, onde ficaram por muitos anos. Antes de nos despedirmos, comentei sobre o Leopoldo e perguntei se ele era o mesmo que foi casado com a dona Rosa — aquela que visitamos em Uruguaiana. Meu pai confirmou que sim. Inclusive, mencionou que a casa onde a dona Rosa (viúva do Leopoldo) mora atualmente foi o primeiro endereço em que ele (meu pai) morou em Uruguaiana, antes de se mudarem para a casa da rua Íris Valls, onde residiram por último. Conversamos mais um pouco, demos umas risadas e nos despedimos. Fiquei surpreso ao descobrir a existência do vô Manuel e satisfeito por ter coletado essas memórias da família hoje (03/10/2026).
 
 - [x] Documento de identificação: Menção no RG de José da Rosa.
 
@@ -89,8 +95,6 @@ graph TD
 > **Tradição Oral:** Conta-se que...
 
 - [x] Documento de identificação: Coletado (RG)
-
- 
 
 ## Origem Ibérica
 
