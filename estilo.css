@@ -5,6 +5,9 @@
       margin: 0;
       padding: 0;
     }
+body.genealogia main {
+  text-align: justify;
+}
 header {
   background:
     repeating-linear-gradient(45deg, #000 0 10px, #fff 20px 40px),
@@ -46,10 +49,6 @@ img {
   height: auto;
   display: block;
   margin: 0 auto; /* opcional: centraliza */
-}
-
-.genealogia-content {
-  text-align: justify;
 }
 
     main {
