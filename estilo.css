@@ -7,8 +7,8 @@
     }
 header {
   background:
-    repeating-linear-gradient(45deg, #000 0 10px, #fff 10px 20px),
-    repeating-linear-gradient(-45deg, #000 0 10px, #fff 10px 20px);
+    repeating-linear-gradient(45deg, #000 0 10px, #fff 20px 40px),
+    repeating-linear-gradient(-45deg, #000 0 10px, #fff 20px 40px);
   background-blend-mode: multiply;
   color: #fff;
   text-align: center;
