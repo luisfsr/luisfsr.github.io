@@ -47,6 +47,11 @@ img {
   display: block;
   margin: 0 auto; /* opcional: centraliza */
 }
+
+.genealogia-content {
+  text-align: justify;
+}
+
     main {
       padding: 2rem;
       text-align: center;
