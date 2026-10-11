@@ -1,6 +1,13 @@
+---
+
+layout: default
+title: Genealogia
+
+---
+
 # 🌳 Ancestralidade da família 'da Rosa'.
 
-Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É uma trabalho singelo que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões quase científicas e históricas acerca da nossa origem.
+Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É um trabalho singelo que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões quase científicas e históricas acerca da nossa origem.
 
 O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é acabado. Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
 
@@ -52,7 +59,7 @@ graph TD
 
 - **Linhagem / Ramo / Declaração Cultural:** da Rosa / Origem Charrua
 
-- **Idioma(s) Falado(s):** Idioma Charrua (não transmitido às gerações seguintes) e Português
+- **Idioma(s) Falado(s):** Idioma Charrua (não transmitido às gerações seguintes), Espanhol e Português
 
 - **Pai:** Ainda não identificado
 
@@ -66,7 +73,7 @@ graph TD
 > 
 > ---
 > 
-> Hoje almocei com meu pai no Centro Histórico. Enquanto caminhávamos até o meu carro — ele empurrando a bicicleta antes de pedalar de volta para casa —, ele me contou algumas histórias da família. Perguntei a ele sobre a minha bisavó Anaurelina: se ela havia nascido no Brasil ou no Uruguai. Ele respondeu que foi no Uruguai. Perguntei se ela tinha ensinado algo do idioma nativo aos filhos, e ele disse que não; ela falava português e espanhol, mas não ensinou a língua indígena para a família, embora a falasse como primeira língua. Curioso, perguntei quando e por que ela veio para o Brasil, e qual idade ela tinha. Meu pai supõe que ela devia ter cerca de 18 anos ao chegar, pois a bisavó lhe contou que já tinha três filhos na época. No contexto das comunidades indígenas da época, as mulheres começavam a ter filhos por volta dos 14 ou 15 anos. Ele lembrou carinhosamente que a “vó China”, como a chamava, gostava muito de convidá-lo para ir à casa dela comer pastel, tomar vinho e contar suas memórias. Sobre o motivo de sua vinda, ela relatava que a vida no Uruguai era muito difícil. Por serem indígenas, ela e sua família eram marginalizados e “muito mal vistos” pela população em geral, vivendo em extrema necessidade e sem qualquer tipo de consideração. Também perguntei sobre o pai do vô José. Ele disse que a bisavó nunca revelou quem ele era, e supõe que já tivesse falecido na época. A mudança para o Brasil aconteceu quando ela conheceu o “vô Manuel” (meu bisavô emprestado), um homem negro que trabalhava em uma estância em Uruguaiana. Ele era posteiro — responsável por cuidar de uma fração de terra mais afastada da propriedade. Em suas andanças pelo Uruguai, Manuel conheceu Anaurelina, eles se afeiçoaram, e ele a trouxe para o Brasil junto com os três filhos que ela já tinha, incluindo o vô José. Eles foram morar no posto de terra que Manuel cuidava. Lá, ele zelava pela propriedade enquanto Anaurelina cozinhava para os peões da estância. Juntos, Manuel e Anaurelina tiveram um filho chamado Leopoldo. Passados alguns anos, o dono da estância chamou o casal para morar na sede: o bisavô Manuel passou a ser o jardineiro da propriedade e a bisavó Anaurelina virou a cozinheira da casa principal, onde ficaram por muitos anos. Antes de nos despedirmos, comentei sobre o Leopoldo e perguntei se ele era o mesmo que foi casado com a dona Rosa — aquela que visitamos em Uruguaiana. Meu pai confirmou que sim. Inclusive, mencionou que a casa onde a dona Rosa (viúva do Leopoldo) mora atualmente foi o primeiro endereço em que ele (meu pai) morou em Uruguaiana, antes de se mudarem para a casa da rua Íris Valls, onde residiram por último. Conversamos mais um pouco, demos umas risadas e nos despedimos. Fiquei surpreso ao descobrir a existência do vô Manuel e satisfeito por ter coletado essas memórias da família hoje (POA, 03/10/2026).
+> Hoje almocei com meu pai no Centro Histórico. Enquanto caminhávamos até o meu carro — ele empurrando a bicicleta antes de pedalar de volta para casa —, ele me contou algumas histórias da família. Perguntei a ele sobre a minha bisavó Anaurelina: se ela havia nascido no Brasil ou no Uruguai. Ele respondeu que foi no Uruguai. Perguntei se ela tinha ensinado algo do idioma nativo aos filhos, e ele disse que não; ela falava português e espanhol, mas não ensinou a língua indígena para a família, embora a falasse como primeira língua. Curioso, perguntei quando e por que ela veio para o Brasil, e qual idade ela tinha. Meu pai supõe que ela devia ter cerca de 18 anos ao chegar, pois a bisavó lhe contou que já tinha três filhos na época. No contexto das comunidades indígenas da época, as mulheres começavam a ter filhos por volta dos 14 ou 15 anos. Ele lembrou carinhosamente que a “vó China”, como a chamava, gostava muito de convidá-lo para ir à casa dela comer pastel, tomar vinho e contar suas memórias. Sobre o motivo de sua vinda, ela relatava que a vida no Uruguai era muito difícil. Por serem indígenas, ela e sua família eram marginalizados e “muito mal vistos” pela população em geral, vivendo em extrema necessidade e sem qualquer tipo de consideração. Também perguntei sobre o pai do vô José. Ele disse que a bisavó nunca revelou quem ele era, e supõe que já tivesse falecido na época. A mudança para o Brasil aconteceu quando ela conheceu o “vô Manuel” (meu bisavô emprestado), um homem negro que trabalhava em uma estância em Uruguaiana. Ele era posteiro — responsável por cuidar de uma fração de terra mais afastada da propriedade. Em suas andanças pelo Uruguai, Manuel conheceu Anaurelina, eles se afeiçoaram, e ele a trouxe para o Brasil junto com os três filhos que ela já tinha, incluindo o vô José. Eles foram morar no posto de terra que Manuel cuidava. Lá, ele zelava pela propriedade enquanto Anaurelina cozinhava para os peões da estância. Juntos, Manuel e Anaurelina tiveram um filho chamado Leopoldo. Passados alguns anos, o dono da estância chamou o casal para morar na sede: o bisavô Manuel passou a ser o jardineiro da propriedade e a bisavó Anaurelina virou a cozinheira da casa principal, onde ficaram por muitos anos. Antes de nos despedirmos, comentei sobre o Leopoldo e perguntei se ele era o mesmo que foi casado com a dona Rosa — aquela que visitamos em Uruguaiana. Meu pai confirmou que sim. Inclusive, mencionou que a casa onde a dona Rosa (viúva do Leopoldo) mora atualmente foi o primeiro endereço em que meus avós, pai e tios moraram em Uruguaiana, antes de se mudarem para a casa da rua Íris Valls, onde residiram por último. Conversamos mais um pouco, demos umas risadas e nos despedimos. Fiquei surpreso ao descobrir a existência do vô Manuel e satisfeito por ter coletado essas memórias da família hoje (POA, 03/10/2026).
 
 - [x] Documento de identificação: Menção no RG de José da Rosa.
 
@@ -291,7 +298,7 @@ Os traços no rosto, como o olho puxado e os ossos faciais grandes são testemun
 
 Quando eu era criança, como cresci em uma região em que os indígenas foram expulsos e a população quase na sua totalidade era de origem caucasiana (massivamente alemães e italianos), sempre fui visto como diferente. Não raras vezes me chamavam de "japonês", por causa de meus olhos puxados e eu sempre retrucava "não, sou índio, meu pai me contou".
 
-Por vezes os de origem alemã me perguntavam: "De qual família você é?" e eu, novinho, querendo me integrar dizia "minha mãe é Stürmer" e me respondiam "mas tu não é alemão, tem uma mistura aí!" e eu retrucava, "sim, sou indígena, também". Depois de um tempo, acostumado com o estranhamento dos teutonicos, já adiantava, sou da Rosa, de origem indígena. Então diziam, "mas tu é muito claro" e eu falava, "sim, minha mãe é de origem alemã". No fim, mais velho já largava ainda  mais na frente: "sou da Rosa, de origem indígena, e Stürmer, de origem alemã, sou mestiço". Depois que me mudei daquela região e vim para Porto Alegre essas perguntas deixaram de fazer parte do meu cotidiano, mas deixaram suas marcas em mim.
+Por vezes os de origem alemã me perguntavam: "De qual família você é?" e eu, novinho, querendo me integrar dizia "minha mãe é Stürmer" e me respondiam "mas tu não é alemão, tem uma mistura aí!" e eu de pronto falava, "sim, sou indígena, também". Depois de um tempo, acostumado com o estranhamento dos teutonicos, já adiantava, sou da Rosa, de origem indígena. Então diziam, "mas tu é muito claro" e eu falava, "sim, minha mãe é de origem alemã". No fim, mais velho já largava ainda  mais na frente: "sou da Rosa, de origem indígena, e Stürmer, de origem alemã, sou mestiço". Depois que me mudei daquela região e vim para Porto Alegre essas perguntas deixaram de fazer parte do meu cotidiano, mas deixaram suas marcas em mim.
 
 Desta forma, é mais do que evidente que traços fenotípicos ameríndios estão bem presentes em praticamente todos nós.
 
@@ -405,9 +412,9 @@ Aliás, eu percebi que disponho de poucas fotos da família, e se alguém tiver 
 
 ## Análise genética
 
-Felizmente, há alguns anos, fiz um exame de DNA que demonstrou com precisão a minha constituição genética. De posse disso, solicitei que a IA fizesse uma análise fenotípica da minha foto e me surpreendi com a precisão da análise da IA. Assim, resolvi usá-la para enriquecer este trabalho.
+Felizmente, há alguns anos, fiz um exame de DNA que demonstrou com precisão a minha constituição genética.
 
-Os percentuais apresentados pela inteligência articial se aproximaram bastante com meu perfil genético, que foi feito a partir de meu material genético. Eu o forneci para a empresa genera, que me retornou a seguinte composição genética:
+Os percentuais apresentados pela inteligência articial na análise fenotípica se aproximaram bastante do meu perfil genético real, que foi identificado pela empresa genera. A análise genética retornou a seguinte composição:
 
 ### Perfil Genético do Indivíduo
 
@@ -474,11 +481,10 @@ Abaixo está o checklist estruturado para a complementação e finalização do 
 1. Ramos Familiares & Genealogia Documental **Alta**Pendente
 - **Documentação do Vô José & Bisavó Anaurelina:** Localizar certidão de nascimento/batismo e óbito de José da Rosa e Anaurelina da Rosa para confirmar filiação e local de origem.
 - **Registros em Yacaré / Artigas (Uruguai):** Pesquisar registros civis ou paroquiais adicionais de Leonardo Chamorro, Ynés Ferreira, Antônio Chamorro e Sonecaria Ferreira.
-- **Origem de Manuel Ferreira e Indígena Desconhecida:** Investigar arquivos históricos de Artigas/Salto para identificar a filiação ou processo de adoção/criação de Ynés Ferreira.
-- **Ramo Stürmer (Materno):** Incluir a árvore genealógica do ramo Stürmer (Nadir Stürmer e antepassados alemães/europeus) para justificar os 55% de Europa Ocidental do teste de DNA.
+- **Origem de Manuel Ferreira e Desconhecida:** Investigar arquivos históricos de Artigas/Salto para identificar a filiação ou processo de adoção/criação de Ynés Ferreira.
 2. Registros Fotográficos & Acervo Visual**Alta**Pendente
 - **Fotos Faltantes (Linha Direta):** Resgatar fotos da Bisavó Anaurelina, Avó Antônia Chamorra e Bisavó Ynés Ferreira com parentes e conhecidos.
-- **Digitalização em Alta Resolução:** Substituir links externos temporários (OneDrive) por imagens salvas diretamente na estrutura final da obra.
+
 - **Legendas e Cronologia:** Catalogar o ano aproximado e local de cada foto familiar obtida.
 3. Histórias Ancestrais & Tradição Oral**Média**Pendente
 - **História de Anaurelina:** Entrevistar Fernando Chamorra da Rosa para registrar mais detalhes sobre o que Anaurelina contava (palavras no idioma Charrua, costumes, memórias).
