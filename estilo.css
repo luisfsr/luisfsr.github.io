@@ -75,16 +75,10 @@ header {
   height: 150px;
   background-color: #fff;
   background-image:
-    repeating-linear-gradient(
-      90deg,
-      #000 0 2px,
-      transparent 2px 20px
-    ),
-    repeating-linear-gradient(
-      0deg,
-      transparent 0 18px,
-      #000 18px 20px
-    );
+    repeating-linear-gradient(90deg, #000 0 2px, transparent 2px 30px),
+    radial-gradient(#000 2px, transparent 3px);
+  background-size: 30px 30px;
+  background-repeat: repeat;
   border: 5px solid #000;
 }
 
