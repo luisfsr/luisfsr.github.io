@@ -5,18 +5,17 @@
       margin: 0;
       padding: 0;
     }
-    header {
-      background: repeating-linear-gradient(
-        45deg,
-        #000,
-        #000 20px,
-        #fff 20px,
-        #fff 40px
-      );
-      color: #fff;
-      text-align: center;
-      padding: 2rem;
-    }
+header {
+  background:
+    repeating-linear-gradient(45deg, #000 0 10px, #fff 10px 20px),
+    repeating-linear-gradient(-45deg, #000 0 10px, #fff 10px 20px);
+  background-blend-mode: multiply;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+  border-bottom: 5px solid #000;
+}
+
     header h1 {
       margin: 0;
       font-size: 2.5rem;
