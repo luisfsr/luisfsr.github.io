@@ -1,9 +1,10 @@
 ---
-
 layout: default
 title: Genealogia
 
 ---
+
+<div class="genealogia-content">
 
 # 🌳 Ancestralidade da família 'da Rosa'.
 
@@ -503,3 +504,5 @@ Abaixo está o checklist estruturado para a complementação e finalização do 
 - **Padronização de Símbolos:** Definir uma legenda clara no início da obra para a notação utilizada (ex: ★ = Nascimento, † = Falecimento, 💍 = Casamento).
 - **Correção Gramatical e Ortográfica:** Revisar digitações do rascunho (ex: "geanalogia", "articial", "canco medial").
 - **Formatação de Diagramas Mermaid:** Padronizar os nomes nos nós dos gráficos (ex: letras maiúsculas/minúsculas de identificação) para correta renderização visual.
+  
+</div>
