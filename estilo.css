@@ -1,15 +1,16 @@
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f5f2eb;
-        background-image:
-            radial-gradient(#d6cfc4 0.75px, transparent 0.75px),
-            radial-gradient(#e0d9cd 0.75px, #f5f2eb 0.75px);
-        background-size: 8px 8px;
-        background-position: 0 0, 4px 4px;
-      color: #000;
-      margin: 0;
-      padding: 0;
-    }
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f2eb;
+    background-image:
+        radial-gradient(#d6cfc4 0.75px, transparent 0.75px),
+        radial-gradient(#e0d9cd 0.75px, #f5f2eb 0.75px);
+    background-size: 8px 8px;
+    background-position: 0 0, 4px 4px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
 body.genealogia main {
   text-align: justify;
 }
