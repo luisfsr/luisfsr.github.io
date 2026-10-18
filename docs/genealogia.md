@@ -83,9 +83,7 @@ graph TD
 > 
 > Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.
 > 
-> Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.
-> 
-> Consta no RG do meu avô que ele teria nascido em Uruguaiana,  (POA, 18/10/2026)
+> Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza. (POA, 18/10/2026)
 > 
 > 
 
