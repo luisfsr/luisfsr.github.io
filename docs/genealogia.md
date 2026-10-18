@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: Genealogia
 body_class: genealogia
@@ -77,15 +78,9 @@ graph TD
 > 
 > ---
 > 
-> Esses dias a Tatiana esteve em casa e compartilhou lembranças sobre quando veio para Porto Alegre e passou um tempo na casa da nossa tia-avó, **Maria Luiza Brazeiro**, irmã do nosso avô José.
+> Esses dias a Tatiana esteve em casa e compartilhou lembranças sobre quando veio para Porto Alegre e passou um tempo na casa da nossa tia-avó, Maria Luiza Brazeiro, irmã do nosso avô José. Maria Luiza nasceu em Uruguaiana, e veio para Porto Alegre para trabalhar como auxiliar de enfermagem. Em Uruguaiana, teve um filho chamado Luiz Alberto e, mais tarde, mudou-se para Porto Alegre. Aqui, casou-se novamente, mas acabou ficando viúva. Mesmo assim, manteve-se firme e dedicada, cuidando com carinho dos filhos do marido falecido, tornando-se uma referência de afeto e apoio para eles. Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó Anaurelina nasceu quando ela tinha apenas 12 anos, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.  (POA, 18/10/2026)
 > 
-> Maria Luiza nasceu em **Uruguaiana**, e veio para Porto Alegre para trabalhar como **auxiliar de enfermagem**. Em Uruguaiana, teve um filho chamado **Luiz Alberto** e, mais tarde, mudou-se para Porto Alegre. Aqui, casou-se novamente, mas acabou ficando viúva. Mesmo assim, manteve-se firme e dedicada, cuidando com carinho dos filhos do marido falecido, tornando-se uma referência de afeto e apoio para eles.
-> 
-> Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.
-> 
-> Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza. (POA, 18/10/2026)
-> 
-> 
+> ---
 
 - [x] Documento de identificação: Menção no RG de José da Rosa.
 
