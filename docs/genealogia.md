@@ -1,17 +1,15 @@
 ---
-
 layout: default
 title: Genealogia
 body_class: genealogia
 
 ---
 
-
 # 🌳 Ancestralidade da família 'da Rosa'.
 
 Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-se de uma pesquisa sobre a origem da família da Rosa. É um trabalho singelo que reúne informações coletadas dentro da família acerca de histórias da nossa família e também algumas reflexões quase científicas e históricas acerca da nossa origem.
 
-O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é acabado. Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
+O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é acabado (status: [x] rascunho, [] desenvolvimento, [] pronto, [] revisão). Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
 
 Por questão de vida prática e definição de escopo, decidi enfocar mais na linha reta de ancestralidade até a geração dos meus avós, porém há informação suficiente aqui para ser de interesse a todos os membros da família.
 
@@ -23,9 +21,9 @@ Toda contribuição será reconhecida expressamente.
 
 Agradecimentos:
 
-- Pai Fernando: Por contar histórias da família.
+- Por contar histórias da família: Fernando (pai) e Tatiana (irmã).
 
-- Tia Anaurelina: por disponibilizar fotos do RG do vô José e do Matrimônio do dos Bisavôs Leonardo e Ynés.
+- Por disponibilizar fotos do RG do vô José e do Matrimônio do dos Bisavôs Leonardo e Ynés: Tia Anaurelina.
 
 ```
 SÍMBOLOS:
@@ -67,7 +65,7 @@ graph TD
 
 - **Mãe:** Ainda não identificada
 
-- **Filhos:** José da Rosa, Leopoldo, etc.
+- **Filhos:** Não identificada, José da Rosa, Maria Luíza Braseiro e Leopoldo.
 
 > **Tradição Oral:** 
 > 
@@ -76,6 +74,20 @@ graph TD
 > ---
 > 
 > Hoje almocei com meu pai no Centro Histórico. Enquanto caminhávamos até o meu carro — ele empurrando a bicicleta antes de pedalar de volta para casa —, ele me contou algumas histórias da família. Perguntei a ele sobre a minha bisavó Anaurelina: se ela havia nascido no Brasil ou no Uruguai. Ele respondeu que foi no Uruguai. Perguntei se ela tinha ensinado algo do idioma nativo aos filhos, e ele disse que não; ela falava português e espanhol, mas não ensinou a língua indígena para a família, embora a falasse como primeira língua. Curioso, perguntei quando e por que ela veio para o Brasil, e qual idade ela tinha. Meu pai supõe que ela devia ter cerca de 18 anos ao chegar, pois a bisavó lhe contou que já tinha três filhos na época. No contexto das comunidades indígenas da época, as mulheres começavam a ter filhos por volta dos 14 ou 15 anos. Ele lembrou carinhosamente que a “vó China”, como a chamava, gostava muito de convidá-lo para ir à casa dela comer pastel, tomar vinho e contar suas memórias. Sobre o motivo de sua vinda, ela relatava que a vida no Uruguai era muito difícil. Por serem indígenas, ela e sua família eram marginalizados e “muito mal vistos” pela população em geral, vivendo em extrema necessidade e sem qualquer tipo de consideração. Também perguntei sobre o pai do vô José. Ele disse que a bisavó nunca revelou quem ele era, e supõe que já tivesse falecido na época. A mudança para o Brasil aconteceu quando ela conheceu o “vô Manuel” (meu bisavô emprestado), um homem negro que trabalhava em uma estância em Uruguaiana. Ele era posteiro — responsável por cuidar de uma fração de terra mais afastada da propriedade. Em suas andanças pelo Uruguai, Manuel conheceu Anaurelina, eles se afeiçoaram, e ele a trouxe para o Brasil junto com os três filhos que ela já tinha, incluindo o vô José. Eles foram morar no posto de terra que Manuel cuidava. Lá, ele zelava pela propriedade enquanto Anaurelina cozinhava para os peões da estância. Juntos, Manuel e Anaurelina tiveram um filho chamado Leopoldo. Passados alguns anos, o dono da estância chamou o casal para morar na sede: o bisavô Manuel passou a ser o jardineiro da propriedade e a bisavó Anaurelina virou a cozinheira da casa principal, onde ficaram por muitos anos. Antes de nos despedirmos, comentei sobre o Leopoldo e perguntei se ele era o mesmo que foi casado com a dona Rosa — aquela que visitamos em Uruguaiana. Meu pai confirmou que sim. Inclusive, mencionou que a casa onde a dona Rosa (viúva do Leopoldo) mora atualmente foi o primeiro endereço em que meus avós, pai e tios moraram em Uruguaiana, antes de se mudarem para a casa da rua Íris Valls, onde residiram por último. Conversamos mais um pouco, demos umas risadas e nos despedimos. Fiquei surpreso ao descobrir a existência do vô Manuel e satisfeito por ter coletado essas memórias da família hoje (POA, 03/10/2026).
+> 
+> ---
+> 
+> Esses dias a Tatiana esteve em casa e compartilhou lembranças sobre quando veio para Porto Alegre e passou um tempo na casa da nossa tia-avó, **Maria Luiza Brazeiro**, irmã do nosso avô José.
+> 
+> Maria Luiza nasceu em **Uruguaiana**, e veio para Porto Alegre para trabalhar como **auxiliar de enfermagem**. Em Uruguaiana, teve um filho chamado **Luiz Alberto** e, mais tarde, mudou-se para Porto Alegre. Aqui, casou-se novamente, mas acabou ficando viúva. Mesmo assim, manteve-se firme e dedicada, cuidando com carinho dos filhos do marido falecido, tornando-se uma referência de afeto e apoio para eles.
+> 
+> Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.
+> 
+> Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó **Anaurelina** nasceu quando ela tinha apenas **12 anos**, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.
+> 
+> Consta no RG do meu avô que ele teria nascido em Uruguaiana,  (POA, 18/10/2026)
+> 
+> 
 
 - [x] Documento de identificação: Menção no RG de José da Rosa.
 
