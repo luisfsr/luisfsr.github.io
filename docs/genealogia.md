@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Genealogia
 body_class: genealogia
@@ -78,7 +77,7 @@ graph TD
 > 
 > ---
 > 
-> Esses dias a Tatiana esteve em casa e compartilhou lembranças sobre quando veio para Porto Alegre e passou um tempo na casa da nossa tia-avó, Maria Luiza Brazeiro, irmã do nosso avô José. Maria Luiza nasceu em Uruguaiana, e veio para Porto Alegre para trabalhar como auxiliar de enfermagem. Em Uruguaiana, teve um filho chamado Luiz Alberto e, mais tarde, mudou-se para Porto Alegre. Aqui, casou-se novamente, mas acabou ficando viúva. Mesmo assim, manteve-se firme e dedicada, cuidando com carinho dos filhos do marido falecido, tornando-se uma referência de afeto e apoio para eles. Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó Anaurelina nasceu quando ela tinha apenas 12 anos, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia Maria Luiza.  (POA, 18/10/2026)
+> Esses dias a Tatiana esteve em casa e compartilhou lembranças sobre quando veio para Porto Alegre e passou um tempo na casa da nossa tia-avó, Maria Luiza Brazeiro, irmã do nosso avô José. Maria Luiza nasceu em Uruguaiana, e veio para Porto Alegre para trabalhar como auxiliar de enfermagem. Em Uruguaiana, teve um filho chamado Luiz Alberto e, mais tarde, mudou-se para Porto Alegre. Aqui, casou-se novamente, mas acabou ficando viúva. Mesmo assim, manteve-se firme e dedicada, cuidando com carinho dos filhos do marido falecido, tornando-se uma referência de afeto e apoio para eles. Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó Anaurelina nasceu quando ela tinha apenas 12 anos, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia-avó Maria Luiza  (POA, 18/10/2026).
 > 
 > ---
 
@@ -104,7 +103,7 @@ graph TD
 
 - **Mãe:** Anaurelina da Rosa
 
-- **Filhos:** ...
+- **Filhos:** Ver a relação de Antônia Chamorra da Rosa.
 
 > **Tradição Oral:** Conta-se que...
 
@@ -269,15 +268,33 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 - **Mãe:** Ynés Ferreira
 
-- **Filhos:** Fernando...
+- **Filhos:** Fernando (Nana), Ferdinando (Maninho), Anaurelina (Papa), Inês, Meri, José (Zeca), Roberto (Beto), Fermiano (Miano), Antônio (Capincho) e Bino.
 
-> **Tradição Oral:** Conta-se que...
+> **Tradição Oral:** 
+> 
+> Na Uruguaiana de antigamente — onde a pobreza era o cenário padrão e quase ninguém tinha luxo, exceto os donos de estância —, a Vó Antônia era o eixo que mantinha a família de pé em meio a uma rotina de muita escassez e trabalho bruto.
+> 
+> - **Gestão de sobrevivência sem tecnologia:** Como não havia luz elétrica na casa e muito menos geladeira, a logística da casa passava inteiramente pelas mãos dela. Todos os dias, ela cozinhava a comida estritamente contada, o suficiente para ser consumida no mesmo almoço ou jantar, impedindo que os alimentos estragassem. A base da alimentação diária era aveia, que até hoje meu pai aprecia muito (acho que pra ele deve ter o gostinho da infância).
+> 
+> - **A engenharia do orçamento e a rota da Argentina**: Quando o Vô José demorava a receber o soldo pelas empreitadas de estância, a conta estourava no Bolicho do Seu Elder — aquele comerciante magro e brincalhão que vendia fiado com 50% de ágio. Para escapar dessa facada e fazer o dinheiro render, a Vó Antônia esperava entrar a grana e partia para a Argentina, onde as coisas custavam cerca de um terço do preço do Brasil.
+> 
+> - **A expedição do rancho a pé**: Ela não ia sozinha: recrutava o teu pai e o Maninho como escolta e força. O trio encarava 8 quilômetros de caminhada a pé até o ponto de ônibus para ir à cidade argentina mais próxima. Na volta, a Vó tocava a tropa descansando aos poucos no caminho, enquanto os guris carregavam as sacas pesadas de mantimentos nas costas — com o Maninho, por ser o mais forte, pegando o mais pesado. As compras grandes de base alimentar, como o sacão de 20kg de aveia, precisavam ser trazidas lá da Argentina.
+> 
+> - **A era do leite americano (40 kg nas costas)**: Houve um período de uns quatro anos em que o governo dos EUA mandava ajuda humanitária e a Vó cadastrou a família na associação de bairro. O teu pai lembrou de ver a bandeira americana e as inscrições "People's" e "USA" nos sacos. Como eles não tinham carrinho de mão (diferente de vizinhos mais 'abastados'), a Vó Antônia mandava os guris buscarem e carregarem os 40 kg de leite em pó nas costas. Foi o único período da juventude em que o pai e os irmãos beberam leite.
+
+> - **O espaço e o aconchego improvisado:** Ela dividia o único quarto da casa de três cômodos com as filhas pequenas. O resto da prole masculina dormia na sala sobre pelegos. Na falta de colchões convencionais de fábrica, ela confeccionou o próprio colchão usando unicamente os recursos que tinha: sacos de pano, pelego de ovelha e palha de milho.
+> 
+> - **A professora da casa (na marra):** Como o Vô José era peão de estância — passava semanas inteiras fora de casa consertando alambrados e tosquiando ovelhas em propriedades de centenas de hectares e só voltava esporadicamente — e ainda tinha a cabeça dura de que escola não servia para nada, a responsabilidade da educação caiu toda no colo da Vó Antônia. Ela assumiu o papel de professora dos filhos. Com uma exigência danada, ensinou o meu pai e os meus tios a escreverem, as operações matemáticas básicas, noções de geografia e história. Ensinou tão bem que meu pai entrou direto na quarta série quando os militares instituíram a educação obrigatória. Quando faltava material didático, ela improvisava com o que encontrava em revistas, adorando aplicar ditados rigorosos para testar a gurizada.
+> 
+> - **O alívio que chegou depois:** Anos mais tarde, quando o pai completou 17 anos e foi embora para servir à Marinha como fuzileiro naval, os primeiros soldos que ele mandou de volta para casa ajudaram a melhorar a realidade dela. Foi com o dinheiro dele que a Vó Antônia finalmente ganhou uma geladeira, um fogão a gás e a tão sonhada instalação de energia elétrica na casa nova e maior que hoje está lá - também iniciada com a compra de tábuas por parte do pai, do vô José e mão de obra dos meus tios.
+> 
+> Em resumo, a Vó Antônia era a força civilizadora e o coração daquela casa de três cômodos: cozinhava, educava sem livro didático, costurava o próprio colchão e segurava a barra enquanto o marido estava longe lidando no campo.
 
 - [ ] Documento de identificação: Pendente.
 
 ## Ancestralidade:
 
-A ancestralidade Ibérica não necessita de muita pesquisa, visto que facilmente demonstrável pelo documento acima. Verifica-se peloa origem dos sobrenomes.
+A ancestralidade Ibérica não necessita de muita pesquisa, visto que facilmente demonstrável pelo documento acima. Verifica-se pela origem dos sobrenomes.
 
 ### Ferreira
 
@@ -298,6 +315,10 @@ Conforme o site [genera](https://sobrenomes.genera.com.br/sobrenomes/rosa/), no 
 Como dito acima, a bisavó Anaurelina teria dito que somos de origem Charrua ao nosso ao Avô José.
 
 Muito provavelmente a bisavó adotou o sobrenome de alguma família açoriana da região do Uruguai ou do Brasil, mas as circunstâncias dessa adoção ainda são desconhecidas para mim.
+
+No Uruguai, o sobrenome "Da Rosa" conta com cerca de 3.976 portadores (ocupando aproximadamente a 92ª posição em incidência no território uruguaio), conforme o site [sobrenome.info](https://sobrenome.info/sobrenome-da_rosa).
+
+A proximidade geográfica e os fluxos migratórios entre Brasil, Uruguai e Argentina explicam a circulação e a presença do sobrenome "Da Rosa" na região do Prata.
 
 ## Análise fenotípica e genética
 
