@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: Genealogia
 body_class: genealogia
@@ -11,7 +12,7 @@ Este documento está sendo escrito por Luis Fernando Stürmer da Rosa, e trata-s
 
 O documento que você está lendo agora está sendo desenvolvido aos poucos e em horários de folga, i.e, não é acabado (status: [x] rascunho, [] desenvolvimento, [] pronto, [] revisão). Caso tenha interesse em contribuir com documentos, histórias, informações e correções, entre em contato comigo adicionando-me no Instagram: @luisfernando.sr
 
-Por questão de vida prática e definição de escopo, decidi enfocar mais na linha reta de ancestralidade até a geração dos meus avós, porém há informação suficiente aqui para ser de interesse a todos os membros da família.
+Por questão de vida prática e definição de escopo, decidi enfocar mais na linha reta de ancestralidade até a geração dos meus avós, por isso há informação suficiente aqui para ser de interesse a todos os membros da família.
 
 Sinta-se a vontade de alterar e personalizar este documento para o seu ramo da família e depois compartilhar a sua versão comigo (posso colocar um link aqui se for disponibilizado na internet).
 
@@ -105,7 +106,19 @@ graph TD
 
 - **Filhos:** Ver a relação de Antônia Chamorra da Rosa.
 
-> **Tradição Oral:** Conta-se que...
+> **Tradição Oral:** 
+> 
+> **Vô José: O peão de estância**
+> 
+> Se a Vó Antônia era o eixo da casa e a Bisa Inês protegia a família do frio com a lã, o Vô José representava o tipo clássico de homem de campo daquela Uruguaiana de antigamente: dedicado ao trabalho pesado, dono de uma visão de mundo rígida e moldada pela dureza da lida rural.
+> 
+> - **O ofício nas estâncias (Alambrador e Esquilador):** O vô trabalhava como peão de estância, tendo como especialidades esticar alambrados (cercas) e ser esquilador (tosquiador de ovelhas). Era o tipo de serviço que exigia muita força física: ele passava semanas inteiras fora de casa, alojado naquelas vastas estâncias de centenas de hectares do pampa, voltando apenas esporadicamente para visitar a família. Era o suor dele no campo que trazia o sustento, embora o pagamento demorasse a sair — o que obrigava a família a recorrer às contas fiadas no Bolicho do Seu Elder.
+> 
+> - **A cisma com a escola:** O Vô José tinha uma convicção ferrenha de que escola não servia para nada. Ele raciocinava pelo exemplo próprio: nunca tinha pisado numa sala de aula, construiu a vida trabalhando duro e sustentou a família, logo, achava que a educação formal pública era uma perda de tempo. Por causa dessa teimosia, ele vetava a ida dos guris para o colégio — o que forçou a Vó Antônia a assumir o encargo de ensinar os filhos em casa por conta própria. Isso só mudou após o golpe militar, que passou a exigir a obrigatoriedade do ensino.
+> 
+> - **O mestre de obras do poço:** Foi sob as orientações técnicas dele que o pai, o Maninho e outro irmão cavaram aquele poço de seis metros e meio na base da pá e da picareta, ouvindo o conselho crucial de descer mais um metro e meio no lodo e pedra porosa para garantir que a água nunca secasse.
+> 
+> - **O despertar para a casa nova:** Quando o pai, prestes a ir embora para a Marinha aos 17 anos, anunciou que compraria tábuas para fazer uma casa maior para a família, o Vô José se mexeu também, entrou na parceria e comprou mais madeira, garantindo uma melhor estrutura pra família viver.
 
 - [x] Documento de identificação: Coletado (RG)
 
@@ -210,7 +223,7 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 ★ 16/05/1889, Yacaré, Artigas, UY
 
-† Provavelmente Yacaré, Artigas, UY
+† Provavelmente Uruguaiana, RS, BR
 
 - **Grau de Parentesco:** Bisavô de Luís
 
@@ -232,13 +245,13 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 ★ 21/01/1893, Yacaré, Artigas, UY
 
-† Provavelmente Yacaré, Artigas, UY
+† Provavelmente Uruguaiana, RS, BR
 
 - **Grau de Parentesco:** Bisavó de Luís
 
 - **Linhagem / Ramo / Declaração Cultural:** Ibérico (espanhol)
 
-- **Idioma(s) Falado(s):** Idioma Espanhol e Português
+- **Idioma(s) Falado(s):** Espanhol e Português
 
 - **Pai:** Manuel Ferreira
 
@@ -246,7 +259,17 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 - **Filhos:** Antônia Chamorra e talvez outros
 
-> **Tradição Oral:** Conta-se que...
+> **Tradição Oral:** 
+> 
+> **Bisavó Inês: A mestra do tear**
+> 
+> Se a Vó Antônia garantia o sustento no prato, a Bisavó Inês era a guardiã contra o frio rigoroso do pampa. Naquela época de escassez, a produção de cobertores não era apenas uma tarefa doméstica, mas uma verdadeira arte de subsistência.
+> 
+> - **A oficina do cobertor artesanal:** Toda a produção era feita do zero pelas mãos da Bisa Inês, utilizando a roca de fiar e o tear manual. O processo era bruto e trabalhoso: ela recebia os pelegos crus de ovelha (com ajuda do meu pai e dos outros para lavar bem a lã e tirar a gordura forte da pele), desfiava a lã na roca até formar fios longos e depois entrelaçava tudo no tear.
+> 
+> - **Técnica e estrutura:** O tear que ela operava consistia numa estrutura simples com dois paus e um arame central. Com uma agulha de madeira e outra madeira de guia, a Bisa Inês passava o fio horizontal e o socava firmemente contra a trama. O resultado final eram cobertores espessos de cerca de uma polegada e meia de pura lã, na cor natural da ovelha — rústicos, extremamente pesados e quentes ("não tinha como passar frio").
+> 
+> - **A encomenda do Vô José:** A confecção não era um simples favor familiar, mas um trabalho artesanal valorizado. O Vô José encomendava os cobertores diretamente com a sogra e pagava pelo trabalho dela. Graças a esse acordo, cada pessoa da casa tinha o seu próprio cobertor artesanal feito por ela para suportar o inverno de Uruguaiana.
 
 - [x] Documento de identificação: Certidão de casamento.
 
@@ -285,6 +308,8 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 > - **O espaço e o aconchego improvisado:** Ela dividia o único quarto da casa de três cômodos com as filhas pequenas. O resto da prole masculina dormia na sala sobre pelegos. Na falta de colchões convencionais de fábrica, ela confeccionou o próprio colchão usando unicamente os recursos que tinha: sacos de pano, pelego de ovelha e palha de milho.
 > 
 > - **A professora da casa (na marra):** Como o Vô José era peão de estância — passava semanas inteiras fora de casa consertando alambrados e tosquiando ovelhas em propriedades de centenas de hectares e só voltava esporadicamente — e ainda tinha a cabeça dura de que escola não servia para nada, a responsabilidade da educação caiu toda no colo da Vó Antônia. Ela assumiu o papel de professora dos filhos. Com uma exigência danada, ensinou o meu pai e os meus tios a escreverem, as operações matemáticas básicas, noções de geografia e história. Ensinou tão bem que meu pai entrou direto na quarta série quando os militares instituíram a educação obrigatória. Quando faltava material didático, ela improvisava com o que encontrava em revistas, adorando aplicar ditados rigorosos para testar a gurizada.
+> 
+> - **O luxo do bolo em dias de festa (e de grana):** Numa infância onde doce comprado era utopia e chocolate sequer existia no horizonte, o ápice da celebração era o bolo que a Vó Antônia fazia. Em aniversário ou data especial, se tivesse dinheiro, saía bolo; se o caixa estivesse zerado, era a refeição normal do dia e vida que segue.
 > 
 > - **O alívio que chegou depois:** Anos mais tarde, quando o pai completou 17 anos e foi embora para servir à Marinha como fuzileiro naval, os primeiros soldos que ele mandou de volta para casa ajudaram a melhorar a realidade dela. Foi com o dinheiro dele que a Vó Antônia finalmente ganhou uma geladeira, um fogão a gás e a tão sonhada instalação de energia elétrica na casa nova e maior que hoje está lá - também iniciada com a compra de tábuas por parte do pai, do vô José e mão de obra dos meus tios.
 > 
