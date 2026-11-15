@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Genealogia
 body_class: genealogia
@@ -81,6 +80,8 @@ graph TD
 > Esses dias a Tatiana esteve em casa e compartilhou lembranças sobre quando veio para Porto Alegre e passou um tempo na casa da nossa tia-avó, Maria Luiza Brazeiro, irmã do nosso avô José. Maria Luiza nasceu em Uruguaiana, e veio para Porto Alegre para trabalhar como auxiliar de enfermagem. Em Uruguaiana, teve um filho chamado Luiz Alberto e, mais tarde, mudou-se para Porto Alegre. Aqui, casou-se novamente, mas acabou ficando viúva. Mesmo assim, manteve-se firme e dedicada, cuidando com carinho dos filhos do marido falecido, tornando-se uma referência de afeto e apoio para eles. Tatiana também comentou sobre outros irmãos do nosso avô José e mencionou que a primeira filha da nossa bisavó Anaurelina nasceu quando ela tinha apenas 12 anos, permanecendo no Uruguai. Depois, Anaurelina veio para o Brasil acompanhada do nosso avô José e da tia-avó Maria Luiza  (POA, 18/10/2026).
 > 
 > ---
+> 
+> Em 15/11/2026 a Tatiana me visitou e lembrou que a Bisavó China era uma ótima cozinheira. Que ela fazia pastéis folheados muito bons que eram vendidos pelo Pai (e talvez irmãos dele também) para ajudar no sustento da família. Ela morava junta à casa da Dona Rosa, esposa do Leopoldo. Disse que visitou a bisavó apenas duas vezes na vida e que lembra de ter comido pastéis feitos por ela e que provavelmente eu estava junto nessas visitas e não lembro (tenho vagas lembranças). Lembrou que a bisavó era muito articulada nas palavras, muito dona de si e com uma forte autestima, transmitindo segurança sobre suas opiniões. A bisavó sempre tinha vinho na geladeira e tomava uma taça todos os dias, gostava muito de se comuicar e ir em festas, tendo dado uma entrevista para a RBS em um baile em que ela estava vestida de prenda (a Dona Rosa contou dessa entrevista há cerca de 28 anos atrás para a Tatiana, quando a bisavó tinha entre 80 e 90 anos - obs.: a bisavó morreu com 104 ou 106 anos).
 
 - [x] Documento de identificação: Menção no RG de José da Rosa.
 
@@ -291,7 +292,7 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 
 - **Mãe:** Ynés Ferreira
 
-- **Filhos:** Fernando (Nana), Ferdinando (Maninho), Anaurelina (Papa), Inês, Meri, José (Zeca), Roberto (Beto), Fermiano (Miano), Antônio (Capincho) e Bino.
+- **Filhos:** Fernando (Nãna), Ferdinando (Maninho), Anaurelina (Pápa), Inês (Nezinha), Rosemeri (Meri), José (Zeca), Carlos Alberto (Beto), Fermiano (Miano), Antônio (Capincho), Rivelino (Bino) e Herculano (Magro).
 
 > **Tradição Oral:** 
 > 
@@ -305,7 +306,7 @@ O documento em questão é esse, que segue pubicado, pois já muito antigo:
 > 
 > - **A era do leite americano (40 kg nas costas)**: Houve um período de uns quatro anos em que o governo dos EUA mandava ajuda humanitária e a Vó cadastrou a família na associação de bairro. O teu pai lembrou de ver a bandeira americana e as inscrições "People's" e "USA" nos sacos. Como eles não tinham carrinho de mão (diferente de vizinhos mais 'abastados'), a Vó Antônia mandava os guris buscarem e carregarem os 40 kg de leite em pó nas costas. Foi o único período da juventude em que o pai e os irmãos beberam leite.
 
-> - **O espaço e o aconchego improvisado:** Ela dividia o único quarto da casa de três cômodos com as filhas pequenas. O resto da prole masculina dormia na sala sobre pelegos. Na falta de colchões convencionais de fábrica, ela confeccionou o próprio colchão usando unicamente os recursos que tinha: sacos de pano, pelego de ovelha e palha de milho.
+> - **O espaço e o aconchego:** Ela dividia o único quarto da casa de três cômodos com as filhas pequenas. O resto da prole masculina dormia na sala sobre pelegos. Na falta de colchões convencionais de fábrica, ela confeccionou o próprio colchão usando unicamente os recursos que tinha: sacos de pano, pelego de ovelha e palha de milho.
 > 
 > - **A professora da casa (na marra):** Como o Vô José era peão de estância — passava semanas inteiras fora de casa consertando alambrados e tosquiando ovelhas em propriedades de centenas de hectares e só voltava esporadicamente — e ainda tinha a cabeça dura de que escola não servia para nada, a responsabilidade da educação caiu toda no colo da Vó Antônia. Ela assumiu o papel de professora dos filhos. Com uma exigência danada, ensinou o meu pai e os meus tios a escreverem, as operações matemáticas básicas, noções de geografia e história. Ensinou tão bem que meu pai entrou direto na quarta série quando os militares instituíram a educação obrigatória. Quando faltava material didático, ela improvisava com o que encontrava em revistas, adorando aplicar ditados rigorosos para testar a gurizada.
 > 
@@ -349,13 +350,15 @@ A proximidade geográfica e os fluxos migratórios entre Brasil, Uruguai e Argen
 
 Os traços no rosto, como o olho puxado e os ossos faciais grandes são testemunhos de uma ancestralidade ameríndia em nossa famíia. Caso a bisavó não tivesse contato ao avô que proviemos dos Charruas, saberiamos ao menos que somos originários desta América só pelos nossos traços.
 
-Quando eu era criança, como cresci em uma região em que os indígenas foram expulsos e a população quase na sua totalidade era de origem caucasiana (massivamente alemães e italianos), sempre fui visto como diferente. Não raras vezes me chamavam de "japonês", por causa de meus olhos puxados e eu sempre retrucava "não, sou índio, meu pai me contou".
+Quando eu era criança, como cresci em uma região em que os indígenas foram expulsos e a população quase na sua totalidade era de origem caucasiana (massivamente alemães e italianos), sempre fui visto como diferente. Não raras vezes me chamavam de "japonês", por causa de meus olhos puxados e eu sempre retrucava "não, sou 'índio', meu pai me contou".
 
 Por vezes os de origem alemã me perguntavam: "De qual família você é?" e eu, novinho, querendo me integrar dizia "minha mãe é Stürmer" e me respondiam "mas tu não é alemão, tem uma mistura aí!" e eu de pronto falava, "sim, sou indígena, também". Depois de um tempo, acostumado com o estranhamento dos teutonicos, já adiantava, sou da Rosa, de origem indígena. Então diziam, "mas tu é muito claro" e eu falava, "sim, minha mãe é de origem alemã". No fim, mais velho já largava ainda  mais na frente: "sou da Rosa, de origem indígena, e Stürmer, de origem alemã, sou mestiço". Depois que me mudei daquela região e vim para Porto Alegre essas perguntas deixaram de fazer parte do meu cotidiano, mas deixaram suas marcas em mim.
 
 Desta forma, é mais do que evidente que traços fenotípicos ameríndios estão bem presentes em praticamente todos nós.
 
-Para fazer a análise fenotípica resolvi utilizar a IA, principalmente para suprir a falta de informação genética acerca da nossa família.
+Para fazer a análise fenotípica resolvi utilizar a IA, principalmente para suprir a falta de informação genética acerca da nossa família. 
+
+> Nota: A IA analisa apenas traços visuais da foto (sujeita a iluminação e ângulo) e o teste de DNA de SNP (Genera ao final) é o padrão científico real.
 
 Clique [aqui](https://share.gemini.google/sJEDV5KtysCf) para ver com detalhe como usei a IA, mas, de modo resumido, forneci algumas fotos minhas e usei o seguinte prompt: "Pelas características fenotípicas, monte um percentil étnico do indivíduo nas fotos", obtendo a seguinte resposta:
 
@@ -541,11 +544,11 @@ Abaixo está o checklist estruturado para a complementação e finalização do 
 - **Legendas e Cronologia:** Catalogar o ano aproximado e local de cada foto familiar obtida.
 3. Histórias Ancestrais & Tradição Oral**Média**Pendente
 - **História de Anaurelina:** Entrevistar Fernando Chamorra da Rosa para registrar mais detalhes sobre o que Anaurelina contava (palavras no idioma Charrua, costumes, memórias).
-- **História de José e Antônia:** Redigir os verbetes biográficos de José da Rosa e Antônia Chamorra nas seções marcadas com o símbolo (★†).
+- ~~**História de José e Antônia:** Redigir os verbetes biográficos de José da Rosa e Antônia Chamorra nas seções marcadas com o símbolo (★†).~~
 - **Entrevistas Sistematizadas:** Gravar áudios ou anotações com parentes mais velhos para preservar causalidades e anedotas da vida em Artigas e no Rio Grande do Sul.
 4. Ajustes Científicos & Genética***Média**Em Andamento
-- **Diferenciação Crítica (DNA x Fenótipo por IA):** Adicionar nota metodológica explicando que a IA analisa apenas traços visuais da foto (sujeita a iluminação e ângulo) e que o teste de DNA de SNP (Genera) é o padrão científico real.
-- **Análise Genética do Pai / Outros Familiares:** Avaliar a realização do teste de DNA autosomal no pai (Fernando) para mapeamento direto do DNA ameríndio sem diluição geracional.
+- ~~**Diferenciação Crítica (DNA x Fenótipo por IA):** Adicionar nota metodológica explicando que a IA analisa apenas traços visuais da foto (sujeita a iluminação e ângulo) e que o teste de DNA de SNP (Genera) é o padrão científico real.~~
+- ~~**Análise Genética do Pai / Outros Familiares:** Avaliar a realização do teste de DNA autosomal no pai (Fernando) para mapeamento direto do DNA ameríndio sem diluição geracional. NÃO SERÁ FEITO.~~
 - **Correlação Haplogrupos (Paterno/Materno):** Verificar no painel da Genera os haplogrupos Y-DNA (linhagem paterna) e mtDNA (linhagem materna) para confirmar as rotas migratórias ancestrais.
 5. Capítulo Histórico: Os Charruas**Média**Pendente
 - **Seção "Quem foram?":** Escrever a introdução sobre o território histórico Charrua (Pampa, Uruguai, Rio Grande do Sul e Entre Ríos).
@@ -553,6 +556,6 @@ Abaixo está o checklist estruturado para a complementação e finalização do 
 - **Seção "Como sobreviveveram? & Quem são?":** Abordar o reagrupamento familiar, a miscigenação forçada/estratégica, a invisibilização estatística e o movimento de reemergência étnica atual (ex: CODECHA no Uruguai).
 - **Mapeamento Geográfico:** Substituir ou identificar explicitamente o destino dos dois links do Google Maps inseridos no final do texto.
 6. Diagramação & Edição Geral**Baixa**Pendente
-- **Padronização de Símbolos:** Definir uma legenda clara no início da obra para a notação utilizada (ex: ★ = Nascimento, † = Falecimento, 💍 = Casamento).
+- **~~Padronização de Símbolos:** Definir uma legenda clara no início da obra para a notação utilizada (ex: ★ = Nascimento, † = Falecimento, 💍 = Casamento).~~
 - **Correção Gramatical e Ortográfica:** Revisar digitações do rascunho (ex: "geanalogia", "articial", "canco medial").
-- **Formatação de Diagramas Mermaid:** Padronizar os nomes nos nós dos gráficos (ex: letras maiúsculas/minúsculas de identificação) para correta renderização visual.
+- ~~**Formatação de Diagramas Mermaid:** Padronizar os nomes nos nós dos gráficos (ex: letras maiúsculas/minúsculas de identificação) para correta renderização visual.~~
